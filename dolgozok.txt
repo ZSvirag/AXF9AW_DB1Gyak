@@ -1,0 +1,16 @@
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (1,"Kiss Dávid Miklós", '1988-10-31 ',3100,"Salgótarján","Rákóczi út",3);
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (2,"Kovács András", '1991-05-08 ',3100,"Salgótarján","Bem út",19);
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (3,"Nagy Benedek", '1985-03-22 ',3101,"Salgótarján","Ady Endre utca",22);
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (4,"Hajdú Hajnalka", '1999-01-29 ',3100,"Salgótarján","Arany János út",89);
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (5,"Balogh-Tóth Gergő ", '1982-06-08 ',3101,"Salgótarján","Petőfi utca",35);
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (6,"Ferenczi Kristóf", '1980-12-14 ',3100,"Salgótarján","Hősök útja",67);
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (7,"Bajai Gabriella", '1995-02-19 ',3102,"Salgótarján","Kossuth út",45);
+INSERT INTO dolgozok (id, nev, szuldatum,irsz, varos, utca, hazszam)
+VALUES (8,"Németh Laura", '1989-03-04 ',3102,"Salgótarján","Munkácsi utca",73);
