@@ -1,0 +1,140 @@
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (1,"Kiss István",83254169,3100,"Salgótarján","Madách út",2);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (2,"Nagy József",84631497,3100,"Salgótarján","Munkácsi út",25);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES(3,"Takács Ferenc",89654787,3060,"Pásztó","Táncsics utca",22);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES(4,"Kovács László",85321045,3070,"Bátonyterenye","Honvéd út",54);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (5,"Szerencsi András",89654789,3132,"Cered","Domb utca",66);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (6,"Godó Béla",83102456,3153,"Dorogháza","Hősök útja",77);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (7,"Fábián János",80123647,3165,"Endrefalva","Ferenci utca",74);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (8,"József Viktor",86547985,3100,"Salgótarján","Főutca",23);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (9,"Orbán Márk",82124563,3101,"Salgótarján","Vasút utca",11);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (10,"Horváth Tamás",89657431,3102,"Salgótarján","Gorkij körút",10);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (11,"Gál István",80210351,3136,"Etes","Erdész utca",8);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (12,"Kovács Ferenc",82103579,3181,"Karancsalja","Karancs utca",9);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (13,"Puskás Patrik",80123654,3182,"Karancslapujtő","Mezei út",111);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (14,"Tóth Gyula",86214526,3183,"Karancskeszi","Bornemissza utca",145);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (15,"Szabó Balázs",83215263,3137,"Karancsberény","Fráter út",28);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (16,"Magyar Gellért",86210142,3163,"Karacsság","Béke út",89);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (17,"Fráter Benedek",81236965,3127,"Kazár","Liliom utca",75);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (18,"Nagy Bálint",81254789,3161,"Kishartyán","Orgona út",99);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (19,"Vasvári Miklós",80202301,3186,"Litke","Kossuth utca",65);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (20,"Mátrai Kristóf",80325646,3100,"Salgótarján","Honvéd út",74);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (21,"Varga Péter",86514322,3100,"Salgótarján","Főutca",77);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (22,"Németh Kristóf",80147896,3100,"Salgótarján","Vasút utca",97);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (23,"Oroszki Tamás",83262654,3145,"Mátraterenye","Ferenci utca",18);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (24,"Molnár János",80236985,3146,"Nádújfalu","Hősök útja",91);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (25,"Mór Pál",86325974,3077,"Mátraverebély","Hősök útja",61);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (26,"Farkas Antal",86514792,3184,"Mihálygerge","Akácos út",85);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (27,"Papp Tamás",86245310,3129,"Nagykeresztúr","Áfonya utca",23);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (28,"Papp Gyula",83254162,3152,"Nemti","Almafa utca",45);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (29,"Lakatos Hugó",87426510,3142,"Mátraszele","Asztalos út",65);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (30,"Juhász Márk",82325236,3127,"Kazár","Bem út",98);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (31,"Mészáros Dániel",86651554,3186,"Litke","Bazsalikom utca",110);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (32,"Kocsis Henrik",80002152,3182,"Karancslapujtő","Berkenye köz",85);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (33,"Deák Simon",87451522,3137,"Karancsberény","Béke körút",27);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (34,"Hegedűs Dávid",81212334,3127,"Kazár","Bartók Béla utca",39);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (35,"Lukács Ádám",84123102,3161,"Kishartyán","Bányász utca",34);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (36,"Bíró Attila",82326526,3136,"Etes","Táncsics utca",26);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (37,"Balogh Béla",81223251,3100,"Salgótarján","Bodza utca",45);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (38,"Váradi Róbert",81242236,3100,"Salgótarján","Táncsics utca",41);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (39,"Kelemen Miklós",81254237,3100,"Salgótarján","Ciprus utca",46);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (40,"Fülöp Kristóf",83256325,3143,"Mátranovák","Corvin út",95);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (41,"Soós Éva",81223155,3129,"Nagykeresztúr","Csillag utca",92);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (42,"Bakos Zoltán",83246586,3100,"Salgótarján","Csehov út",91);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (43,"Barna Katalin",81253214,3102,"Salgótarján","Egri utca",40);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (44,"Vincze Klaudia",85698544,3142,"Mátraszele","Faiskola út",50);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (45,"Nemes Andrea",87898875,3068,"Mátraszőlős","Madách út",84);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (46,"Barta Beatrix",89665857,3146,"Nádújfalu","Fecske utca",64);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (47,"Veres Lilla",89995862,3077,"Mátraverebély","Füleki utca",74);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (48,"Vass Alexandra",87877126,3132,"Cered","Gerle köz",92);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (49,"Szőke Rita",85236142,3060,"Pásztó","Hanga utca",85);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (50,"Bodnár Tímea",86241530,3165,"Dorogháza","Hargita körút",77);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (51,"Kovács Dóra",85142697,3100,"Salgótarján","József Attila út",74);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES (52,"Gál Attila",85142367,3100,"Salgótarján","Munkácsi út",56);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (53,"Bálint Richárd",87452623,3100,"Salgótarján","Madách út",58);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (54,"Illés Benjámin",86325120,3101,"Salgótarján","Gerle köz",59);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (55,"Fodor Nándor",87421023,3146,"Nádújfalu","Füleki utca",32);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (56,"Kocsis Aladár",85451211,3186,"Litke","Egri utca",65);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (57,"Török Endre",83622652,3161,"Kishartyán","Vasút utca",85);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (58,"Balázs Kristóf",87452563,3127,"Kazár","Ady Endre út",75);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (59,"Simon Ferenc",81325123,3129,"Nagykeresztúr","Fáy András út",46);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (60,"Nagy Dániel",85511215,3152,"Nemti","Mátyás Király útja",51);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (61,"Kiss Domonkos",87651251,3142,"Mátraszele","Hanga utca",21);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (62,"Kerekes Adrián",83326265,3127,"Kazár","Ciprus utca",11);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (63,"Barta Róbert",82101015,3186,"Litke","Corvin út",114);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (64,"Orosz Attila",87456621,3182,"Karancslapujtő","Fáy András út",150);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (65,"Faragó Ferenc",88745651,3137,"Karancsberény","Petőfi út",101);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (66,"Csonka András",82302121,3127,"Kazár","Petőfi út",120);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (67,"Vincze Gábor",87322101,3100,"Salgótarján","Mátyás Király útja",132);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (68,"Szűcs Miklós",80201230,3100,"Salgótarján","Fáy András út",55);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (69,"Balla Péter",80123521,3100,"Salgótarján","Ady Endre út",65);
+INSERT INTO vevok (id,nev,adoszam,irsz, varos, utca, hazszam)
+VALUES  (70,"Pataki Péter",82411412,3100,"Salgótarján","Petőfi út",74);
